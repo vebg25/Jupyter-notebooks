@@ -1,2 +1,2 @@
-"Jupyter_notebooks" 
+Jupyter notebooks
 
